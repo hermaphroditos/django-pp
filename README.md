@@ -24,5 +24,10 @@ urlpatterns = [
 
 ## 구문
 - extends
-
 - include
+
+# Model
+
+````
+python manage.py makemigrations
+````
